@@ -2,7 +2,7 @@
 Home Loan Application - end to end, using Spring Boot, Hibernate and Oracle DB
 
 ## File Structure
-
+```code
 LoanApp-UI
 ┣➝assets
 ┣➝css
@@ -11,7 +11,7 @@ LoanApp-UI
 ┣➝application.html
 ┣➝index.html
 ┗➝login.html
-
+```
 
 ## Contributors
 
