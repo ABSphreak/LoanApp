@@ -94,10 +94,15 @@ LoanApp ⋈
 ┃           ┗➝WEB-INF
 ┃               ┗➝views
 ┃  
-┣➝
-┣➝
-┣➝
-┗➝
+┣➝target <span style="color:blue">(*compiled files*) </span>
+┣➝.classpath
+┣➝.project
+┣➝LICENSE
+┣➝README.md
+┣➝mvnw
+┣➝mvnw.cmd
+┣➝pom.xml
+┗➝db.sql
 ```
 
 ## Contributors
