@@ -1,7 +1,9 @@
 # LoanApp
+
 Home Loan Application - end to end, using Spring Boot, Hibernate and Oracle DB
 
 ## File Structure
+
 ```code
 LoanApp ⋈
 ┣➝.mvn
@@ -85,15 +87,15 @@ LoanApp ⋈
 ┃       ┣➝resources
 ┃       ┃   ┣➝static
 ┃       ┃   ┃   ┣➝assets
-┃       ┃   ┃   ┃   ┣➝   
-┃       ┃   ┃   ┃   ┣➝   
+┃       ┃   ┃   ┃   ┣➝
+┃       ┃   ┃   ┃   ┣➝
 ┃       ┃   ┃   ┣➝css
 ┃       ┃   ┃   ┗➝js
 ┃       ┃   ┗➝application.properties
 ┃       ┗➝webapp
 ┃           ┗➝WEB-INF
 ┃               ┗➝views
-┃  
+┃
 ┣➝target <span style="color:blue">(*compiled files*) </span>
 ┣➝.classpath
 ┣➝.project
@@ -103,8 +105,9 @@ LoanApp ⋈
 ┣➝mvnw.cmd
 ┣➝pom.xml
 ┗➝db.sql
+
+
+It's overwhelming!
 ```
 
 ## Contributors
-
-
