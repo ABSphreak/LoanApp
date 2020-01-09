@@ -111,3 +111,9 @@ It's overwhelming!
 ```
 
 ## Contributors
+
+- Shreya Rastogi
+- Shiwangi Singh
+- Aastha Sehgal
+- Sahil Hustu
+- [Abhinav Sharma]('https://github.com/ABSphreak')
