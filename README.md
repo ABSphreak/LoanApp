@@ -116,4 +116,4 @@ It's overwhelming!
 - Shiwangi Singh
 - Aastha Sehgal
 - Sahil Hustu
-- (Abhinav Sharma)['https://github.com/ABSphreak']
+- [Abhinav Sharma](https://github.com/ABSphreak)
