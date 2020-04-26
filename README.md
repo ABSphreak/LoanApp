@@ -96,7 +96,7 @@ LoanApp ⋈
 ┃           ┗➝WEB-INF
 ┃               ┗➝views
 ┃
-┣➝target <span style="color:blue">(*compiled files*) </span>
+┣➝target (*compiled files*)
 ┣➝.classpath
 ┣➝.project
 ┣➝LICENSE
