@@ -106,8 +106,6 @@ LoanApp ⋈
 ┣➝pom.xml
 ┗➝db.sql
 
-
-It's overwhelming!
 ```
 
 ## Contributors
